@@ -43,7 +43,7 @@
 
 **Latest release: [v4.2](https://github.com/IRNAS/smartparks-lion-tracker-mechanics)**
 
-All 3D files can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-hardware/releases) of the repository.
+All 3D files can be found in the [release section](https://github.com/IRNAS/smartparks-lion-tracker-mechanics/tree/master/files) of the repository.
 
 Lion tracker electronics hardware can be found in the [smartparks-lion-tracker-hardware repository](https://github.com/IRNAS/smartparks-lion-tracker-hardware) repository.
 
