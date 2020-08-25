@@ -7,7 +7,6 @@
 
 **Latest release: [v1.5](https://github.com/IRNAS/smartparks-lion-tracker-hardware)**
 
-
 All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/smartparks-lion-tracker-hardware/issues) section of the repo.
 
 ---
